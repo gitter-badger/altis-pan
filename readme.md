@@ -1,5 +1,7 @@
 # [CMS] AltisPan
 ##### By [Emile LEPETIT](http://emile-lepetit.fr) & Lucas GRALAUD
+
+[![Join the chat at https://gitter.im/Emile442/altis-pan](https://badges.gitter.im/Emile442/altis-pan.svg)](https://gitter.im/Emile442/altis-pan?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 > AltisPan est mon premier gros projet.
 ---
 
